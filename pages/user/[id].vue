@@ -15,6 +15,9 @@ const handleRouter = () => {
     <div>
         <h1>会员中心/user/:id</h1>
         <div>用户id：{{ $route.params.id }}</div>
+        <div>
+            <NuxtLink to="/user/600">user/600</NuxtLink>
+        </div>
         <n-button type="primary" size="medium" @click="handleRouter">去首页</n-button>
     </div>
 </template>

@@ -4,12 +4,9 @@
 
 <template>
     <div>
-        <div>123</div>
-        <div>
-            <NuxtLink to="/" class="text-yellow-300">去首页</NuxtLink>
-        </div>
+        <h1>页头</h1>
         <slot />
-        <div>456789</div>
+        <h1>页尾</h1>
     </div>
 </template>
 

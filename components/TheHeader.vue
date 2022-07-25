@@ -56,7 +56,7 @@ const handleSelect = (key: string | number) => {
 
             <n-grid-item span="0  1200:3" key="225252255">
                 <div class="">
-                    <n-space justify="center" class="h-16 items-center">
+                    <n-space justify="flex-end" class="h-16 items-center">
                         <n-icon size="34">
                             <GithubFilled />
                         </n-icon>

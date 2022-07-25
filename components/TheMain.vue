@@ -1,21 +1,11 @@
 <script lang="ts" setup>
-import { darkTheme, NConfigProvider, GlobalThemeOverrides } from "naive-ui";
 
-const themeOverrides: GlobalThemeOverrides = {
-    common: {
-        primaryColor: '#FF0000'
-    },
-    Button: {
-        textColor: '#FF0000'
-    }
-}
-const theme = ref(darkTheme)
 
 </script>
 
 <template>
     <div>
-        <NConfigProvider inline-theme-disabled :theme="theme" :theme-overrides="themeOverrides">
+        <NConfigProvider inline-theme-disabled>
             <n-loading-bar-provider>
                 <n-dialog-provider>
                     <DialogContent />
