@@ -1,5 +1,8 @@
 # Nuxt3 + NaiveUI + pinia🍍
     这是一个由Nuxt3 + NaiveUI + pinia 搭建的Nuxt3中文文档
+    
+    觉得还行，麻烦点个小♥
+    
 # Nuxt 3 Minimal Starter
 
 Look at the [nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
