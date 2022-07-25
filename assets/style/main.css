@@ -1,0 +1,14 @@
+html,body,#__nuxt,.n-config-provider{
+    height: 100%;
+    width: 100%;
+}
+
+
+.container{
+    width: 100%;
+    max-width: 1536px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: auto;
+    margin-right: auto;
+}

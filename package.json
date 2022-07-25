@@ -1,0 +1,31 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview"
+  },
+  "devDependencies": {
+    "@css-render/vue3-ssr": "^0.15.10",
+    "@vicons/antd": "^0.12.0",
+    "@vicons/carbon": "^0.12.0",
+    "@vicons/fa": "^0.12.0",
+    "@vicons/fluent": "^0.12.0",
+    "@vicons/ionicons4": "^0.12.0",
+    "@vicons/ionicons5": "^0.12.0",
+    "@vicons/material": "^0.12.0",
+    "@vicons/tabler": "^0.12.0",
+    "@vicons/utils": "^0.1.4",
+    "naive-ui": "^2.31.0",
+    "nuxt": "^3.0.0-rc.6",
+    "nuxt-windicss": "^2.4.3",
+    "unplugin-vue-components": "^0.21.1"
+  },
+  "dependencies": {
+    "@nuxt/types": "^2.15.8",
+    "@nuxtjs/composition-api": "^0.33.0",
+    "@pinia/nuxt": "^0.3.0",
+    "pinia": "^2.0.16"
+  }
+}
