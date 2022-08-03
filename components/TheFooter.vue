@@ -4,7 +4,7 @@
 
 <template>
     <div>
-        <h1>页脚</h1>
+        <h1 v-for="item in 100" :key="item">页脚{{ item }}</h1>
     </div>
 </template>
 

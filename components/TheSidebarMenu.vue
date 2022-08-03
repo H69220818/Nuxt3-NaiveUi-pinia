@@ -47,6 +47,78 @@ const menuOptions: MenuOption[] = [
         disabled: true
     },
     {
+        label: '寻羊冒险记',
+        key: 'a-wild-sheep-chase',
+        icon: renderIcon(BookIcon),
+        disabled: true
+    },
+    {
+        label: '寻羊冒险记',
+        key: 'a-wild-sheep-chase',
+        icon: renderIcon(BookIcon),
+        disabled: true
+    },
+    {
+        label: '寻羊冒险记',
+        key: 'a-wild-sheep-chase',
+        icon: renderIcon(BookIcon),
+        disabled: true
+    },
+    {
+        label: '寻羊冒险记',
+        key: 'a-wild-sheep-chase',
+        icon: renderIcon(BookIcon),
+        disabled: true
+    },
+    {
+        label: '寻羊冒险记',
+        key: 'a-wild-sheep-chase',
+        icon: renderIcon(BookIcon),
+        disabled: true
+    },
+    {
+        label: '寻羊冒险记',
+        key: 'a-wild-sheep-chase',
+        icon: renderIcon(BookIcon),
+        disabled: true
+    },
+    {
+        label: '寻羊冒险记',
+        key: 'a-wild-sheep-chase',
+        icon: renderIcon(BookIcon),
+        disabled: true
+    },
+    {
+        label: '寻羊冒险记',
+        key: 'a-wild-sheep-chase',
+        icon: renderIcon(BookIcon),
+        disabled: true
+    },
+    {
+        label: '寻羊冒险记',
+        key: 'a-wild-sheep-chase',
+        icon: renderIcon(BookIcon),
+        disabled: true
+    },
+    {
+        label: '寻羊冒险记',
+        key: 'a-wild-sheep-chase',
+        icon: renderIcon(BookIcon),
+        disabled: true
+    },
+    {
+        label: '寻羊冒险记',
+        key: 'a-wild-sheep-chase',
+        icon: renderIcon(BookIcon),
+        disabled: true
+    },
+    {
+        label: '寻羊冒险记',
+        key: 'a-wild-sheep-chase',
+        icon: renderIcon(BookIcon),
+        disabled: true
+    },
+    {
         label: '舞，舞，舞',
         key: 'dance-dance-dance',
         icon: renderIcon(BookIcon),
